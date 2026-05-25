@@ -1,0 +1,15 @@
+2026-05-20 18:01:39,676 [INFO] Activator:176 - 
+
+
+2026-05-20 18:01:39,679 [INFO] Activator:177 - !SESSION log4j initialized
+2026-05-20 18:01:44,856 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-05-20 19:37:54,370 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-05-20 19:37:54,386 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-05-20 19:37:54,386 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-05-20 19:37:54,386 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-05-20 19:37:54,386 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2026-05-20 19:47:15,326 [INFO] Activator:176 - 
+
+
+2026-05-20 19:47:15,328 [INFO] Activator:177 - !SESSION log4j initialized
+2026-05-20 19:47:18,854 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
